@@ -34,6 +34,16 @@
         [self viewAtCenter:[point CGPointValue]];
     }
     
+    // Explanation Label
+    UILabel *explanationLabel = [[UILabel alloc] initWithFrame:CGRectZero];
+    explanationLabel.text = @"Tap to Animate";
+    explanationLabel.textAlignment = NSTextAlignmentCenter;
+    explanationLabel.textColor = [UIColor colorWithWhite:0.0 alpha:0.8];
+    explanationLabel.font = [UIFont fontWithName:@"HelveticaNeue" size:19.0];
+    [explanationLabel sizeToFit];
+    explanationLabel.center = CGPointMake(self.view.center.x, self.view.bounds.size.height - explanationLabel.bounds.size.height);
+    [self.view addSubview:explanationLabel];
+    
     // Tap Gesture
     UITapGestureRecognizer *animateTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(animateSquares)];
     [self.view addGestureRecognizer:animateTap];

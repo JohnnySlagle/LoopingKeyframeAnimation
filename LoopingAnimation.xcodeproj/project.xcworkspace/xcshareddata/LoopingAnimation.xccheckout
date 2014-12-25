@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6F5D12FC-CB17-4CCE-B021-56BB61447351</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LoopingAnimation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>914E92E482B76DC433AB0A60F0B8A31C278C6405</key>
+		<string>https://github.com/JohnnySlagle/LoopingKeyframeAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LoopingAnimation.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>914E92E482B76DC433AB0A60F0B8A31C278C6405</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JohnnySlagle/LoopingKeyframeAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>914E92E482B76DC433AB0A60F0B8A31C278C6405</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>914E92E482B76DC433AB0A60F0B8A31C278C6405</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LoopingKeyframeAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
